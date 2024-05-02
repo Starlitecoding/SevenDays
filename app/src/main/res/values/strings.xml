@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SevenDays</string>
+
+    <string name="head_1">Head1</string>
+    <string name="body_1">Maecenas porttitor elit nec nibh suscipit, nec pretium mi sodales. Aenean justo magna, tempus consequat lobortis at, tempus vel felis. Donec sed varius enim.</string>
+
+    <string name="head_2">Head2</string>
+    <string name="body_2">Maecenas porttitor elit nec nibh suscipit, nec pretium mi sodales. Aenean justo magna, tempus consequat lobortis at, tempus vel felis. Donec sed varius enim.</string>
+
+    <string name="head_3">Head3</string>
+    <string name="body_3">Maecenas porttitor elit nec nibh suscipit, nec pretium mi sodales. Aenean justo magna, tempus consequat lobortis at, tempus vel felis. Donec sed varius enim.</string>
+
+    <string name="head_4">Head4</string>
+    <string name="body_4">Maecenas porttitor elit nec nibh suscipit, nec pretium mi sodales. Aenean justo magna, tempus consequat lobortis at, tempus vel felis. Donec sed varius enim.</string>
+
+    <string name="head_5">Head5</string>
+    <string name="body_5">Maecenas porttitor elit nec nibh suscipit, nec pretium mi sodales. Aenean justo magna, tempus consequat lobortis at, tempus vel felis. Donec sed varius enim.</string>
+
+    <string name="head_6">Head6</string>
+    <string name="body_6">Maecenas porttitor elit nec nibh suscipit, nec pretium mi sodales. Aenean justo magna, tempus consequat lobortis at, tempus vel felis. Donec sed varius enim.</string>
+
+    <string name="head_7">Head7</string>
+    <string name="body_7">Maecenas porttitor elit nec nibh suscipit, nec pretium mi sodales. Aenean justo magna, tempus consequat lobortis at, tempus vel felis. Donec sed varius enim.</string>
+
+</resources>
